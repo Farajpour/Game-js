@@ -4,7 +4,7 @@ Rock–paper–scissors game by JavaScript
 
 Start Game
 
-Click on one of the icons
+<h1> Click on one of the icons </h1>
 <img src="https://raw.githubusercontent.com/Farajpour/Game-js/master/1.png"/>
 
 If the result was one
