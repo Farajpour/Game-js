@@ -1,0 +1,39 @@
+body{
+    font-size: 100%;
+}
+.you {
+    text-align: right;
+}
+p {
+    font-size: 2rem;
+}
+.icons{
+    font-size: 6rem;
+    margin-top: 10%;
+}
+.pc-1{
+    margin-left: 9%;
+}
+.you-1{
+    margin-right: 9%;
+}
+.icons-1 i:hover{
+    color: red;
+}
+.main-show{
+    font-size: 6rem;
+    text-align: center;
+}
+#you-score{
+    font-size:2rem;
+}
+#pc-score{
+    font-size: 2rem;
+}
+.color{
+    color: #b54625;
+}
+
+span {
+    color: red;
+}

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>MY-Project</title>
+        <link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="./css/font-awesome.min.css">
+        <link rel="stylesheet" type="text/css" href="./css/style.css">
+    </head>
+    <body>  
+        <div class="container-fluid">
+            <di class="row"></di>
+            <div class="row">
+                <div class="col-md-4">
+                    <div id="hidden1">    
+                        <p class="pc-1">player  <b>computer</b></p>
+                        <div class="icons">
+                            <i class="fa fa-hand-rock-o" aria-hidden="true" id="pc-rock"></i>
+                            <i class="fa fa-hand-paper-o" aria-hidden="true" id="pc-paper"></i>
+                            <i class="fa fa-hand-scissors-o" aria-hidden="true" id="pc-scis"></i>
+                        </div>
+                        <div id="pc-score"></div>
+                    </div>
+                </div>
+                <div class="col-md-4 main-show">
+                    <div id="show"></div>
+                    <div id="tie"></div>
+                </div>
+                <div class="col-md-4 you" id="hidden2">
+                    <p class="you-1">player  <b>you</b></p>
+                    <div class="icons icons-1">
+                        <i class="fa fa-hand-rock-o" aria-hidden="true" 
+                        onclick="rockClick()" id="you-rock"></i>
+                        <i class="fa fa-hand-paper-o" aria-hidden="true" 
+                        onclick="paperClick()" id="you-paper"></i>
+                        <i class="fa fa-hand-scissors-o" 
+                        aria-hidden="true" onclick="scissorsClick()" id="you-scis"></i>
+                    </div>
+                    <div id="you-score"></div>
+                </div>
+            </div>
+        </div>
+        <script src="./js/jquery-3.2.1.min.js"></script>
+        <script src="./js/bootstrap.min.js"></script>
+        <script src="./js/main.js"></script>
+    </body>
+
+</html>
