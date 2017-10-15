@@ -1,16 +1,17 @@
 # Game-js
-Rock–paper–scissors game by JavaScript
+
+<h1>Rock–paper–scissors game by JavaScript</h1>
 
 
-Start Game
+<h3> Start Game </h3>
 
-<h1> Click on one of the icons </h1>
+<h4> Click on one of the icons </h4>
 <img src="https://raw.githubusercontent.com/Farajpour/Game-js/master/1.png"/>
 
-If the result was one
+<h4> If the result was one </h4>
 <img src="https://raw.githubusercontent.com/Farajpour/Game-js/master/2.png"/>
 
-Repeat 5 times
+<h4> Repeat 5 times </h4>
 
-Then the result will appear to you
+<h2> Then the result will appear to you </h2>
 <img src="https://raw.githubusercontent.com/Farajpour/Game-js/master/3.png">
