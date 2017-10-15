@@ -1,6 +1,6 @@
 # Game-js
 
-<h1 style="color:DodgerBlue;"> Rock–paper–scissors game by JavaScript </h1>
+<h1 style="color:Tomato;"> Rock–paper–scissors game by JavaScript </h1>
 
 
 <h3 style="color:Red;"> Start Game </h3>
